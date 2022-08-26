@@ -1,0 +1,16 @@
+{
+    "name": "SAMPLE #0",
+    "description": "",
+    "image": "https://example.com/0.png",
+    "external_url": "https://example2.com/",
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Green Monkey"
+        },
+        {
+            "trait_type": "Background Color",
+            "value": "White"
+        }
+    ]
+}
