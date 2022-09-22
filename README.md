@@ -8,7 +8,7 @@ Blender用の3Dジェネラティブ生成スクリプトです。
 
 簡易的なので、自由に改変していただき、ご自身の要件に近づけていただければと思います。
 
-[とりあえず動かしてみたい！！という方は、1.を実施してから、6.へ進んでください。](https://github.com/takuya-nft/blender-3d-generative-script/edit/main/README.md#6-3d%E3%82%A2%E3%83%BC%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B)
+[とりあえず動かしてみたい！！という方は、1.を実施してから、6.へ進んでください。](https://github.com/takuya-nft/blender-3dgenerative-tool#6-scriptsgen_modelpy%E3%82%92%E4%BF%AE%E6%AD%A3%E3%81%99%E3%82%8B)
 
 ## 推奨環境
 blender 2.8以上
